@@ -1,0 +1,38 @@
+﻿body
+{
+    background-color: deepskyblue;
+    position:center;
+    padding: 35px;
+}
+
+button {
+    background-color:dodgerblue
+}
+head
+{
+    display:block;
+        padding:45px;
+}
+h1 {
+    display:block;
+    padding:55px;
+}
+h2 {
+    display:block
+}
+.E {
+    display:block;
+    padding:25px;
+    
+}
+.pass {
+    display:block;
+    padding:25px;
+    position:center;
+}
+img {
+    resize:both;
+    width: 165px;
+    height:155px;
+    position:center;
+}
